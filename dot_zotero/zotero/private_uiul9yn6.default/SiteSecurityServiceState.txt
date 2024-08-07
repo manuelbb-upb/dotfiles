@@ -1,0 +1,2 @@
+api.zotero.org:HSTS	0	19942	1754560328133,1,1,2
+repo.zotero.org:HSTS	0	19942	1754560328336,1,1,2
